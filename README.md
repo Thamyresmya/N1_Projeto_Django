@@ -11,8 +11,9 @@ Projeto desenvolvido com Django e Pyhton.
 <br>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
-  <a href="Gif">Gif</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-gif">Gif</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 <br>
@@ -30,6 +31,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Django
 - Python
 - Git e Github
+
+<br>
+
+## 💻 Projeto
+
+Para a uso desse projeto utilizar o venv.
 
 <br>
 
